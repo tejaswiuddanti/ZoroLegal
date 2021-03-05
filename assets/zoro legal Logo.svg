@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="547.896" height="139.171" viewBox="0 0 547.896 139.171">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.902" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#47a9d6"/>
+      <stop offset="1" stop-color="#6571ab"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.015" x2="1" y2="0.735" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#78bc03"/>
+      <stop offset="1" stop-color="#e3e20b"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_5" data-name="Group 5" transform="translate(-534.104 -451.929)">
+    <g id="Group_4" data-name="Group 4" transform="translate(278 329)">
+      <path id="Path_5" data-name="Path 5" d="M2018.13,532c-1.233-3.87,41.159-30.034,47.713-31.036s47.733,19.162,50.334,24.528,0,59.068,0,59.068-40.01,3.337-39.943,0,12.767-48.63,8.221-52.56S2019.363,535.87,2018.13,532Z" transform="translate(-1762 -378)" fill="url(#linear-gradient)"/>
+      <path id="Path_6" data-name="Path 6" d="M2021.557,574.753s-2.306,51.53,0,57.5,38.681,32.317,44.934,32.55,48.5-29.931,47.145-32.55-59.337-2.389-59.337-2.389-7.853,1.306-4.541-13.07,11.539-42.044,11.539-42.044Z" transform="translate(-1761 -402.708)" fill="url(#linear-gradient-2)"/>
+    </g>
+    <text id="zoro_legal" data-name="zoro legal" transform="translate(678 463)" font-size="81" font-family="Calibri-Bold, Calibri" font-weight="700"><tspan x="0" y="77">zoro legal</tspan></text>
+  </g>
+</svg>
